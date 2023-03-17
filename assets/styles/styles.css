@@ -221,7 +221,7 @@ body{
     }
 
     .encriptador-resultado.mostrar{
-        transform: translateY(-90%);
+        transform: translateY(-95%);
     }
 }
 
