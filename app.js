@@ -226,7 +226,7 @@ function copiarTexto(){
           title: 'Texto copiado y listo para pegar!!!'
         })
 
-        text.focus()
+        // text.focus()
     }
 }
 
