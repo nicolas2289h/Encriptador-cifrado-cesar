@@ -6,6 +6,7 @@
 
 html{
     scroll-behavior: smooth;
+    background-image: linear-gradient(blue,rgb(0, 0, 66));
 }
 
 #particles-js{
